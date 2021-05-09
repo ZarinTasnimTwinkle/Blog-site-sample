@@ -116,7 +116,7 @@ html{
    border-radius: 50%;
    width: 15px;
    padding: 10px;
-   margin-left: 500px;
+   margin-left: 650px;
 
 }
 /* header part ends */
@@ -170,7 +170,7 @@ main part starts */
 .top-main-right span{
     position: absolute;
     top: 1050px;
-    left: 544px;
+    left: 875px;
     color: white;
     font-size: 2rem;
     background-color: black;
@@ -179,7 +179,7 @@ main part starts */
     
 }
 .top-main-right img{
-    margin-left: 40px;
+    margin-left: 200px;
 }
 .top-main-right p{
     text-align: center;
